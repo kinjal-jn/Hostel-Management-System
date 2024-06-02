@@ -1,0 +1,1 @@
+self.var_meal.get()
